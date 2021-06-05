@@ -6,12 +6,13 @@
         <!-- Sidebar -->
         <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
 
-            <!-- Sidebar - Brand -->
-            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="<?php echo base_url('Welcome') ?>">
+           <!-- Sidebar - Brand -->
+            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
                 <div class="sidebar-brand-icon rotate-n-15">
-                    <i class="fas fa-tractor"></i>
+                    <img src="<?php echo base_url('assets/img/Logo.png') ?>" alt="logo" class="" style="height: 50px">
+        
                 </div>
-                <div class="sidebar-brand-text mx-3">YukPanen</div>
+                <div class="sidebar-brand-text mx-3">YukPanen<sup>&#8482;</sup></div>
             </a>
 
             <!-- Divider -->
